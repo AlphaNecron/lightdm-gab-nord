@@ -21,3 +21,5 @@ Nord project: [Nord](https://github.com/arcticicestudio/nord)
 * [FiraSans](https://fonts.google.com/specimen/Fira+Sans)
 ## Screenshots
 ![Screenshot](https://i.imgur.com/2qhsdTs.png "Demo screenshot")
+***
+### [Demo](https://alphanecron.github.io/lightdm-gab-nord)

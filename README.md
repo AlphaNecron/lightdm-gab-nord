@@ -12,7 +12,7 @@ Nord project: [Nord](https://github.com/arcticicestudio/nord)
 * Clone this repository here, it should create a folder called `lightdm-gab-nord`
 * Enable the theme in your `/etc/lightdm/lightdm-webkit2-greeter.conf` by replacing `webkit_theme=*` with `webkit_theme=lightdm-gab-nord`
 * Replace `greeter-session=*` with `greeter-session=lightdm-webkit2-greeter`
-```
+
 ***
 ## Dependencies
 * [LightDM](https://www.archlinux.org/packages/extra/x86_64/lightdm/)

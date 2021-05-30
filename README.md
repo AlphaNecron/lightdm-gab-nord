@@ -1,8 +1,8 @@
 ## lightdm-gab-nord
-A theme based on lightdm-gab-gradient and the great Nord color scheme.
+A theme based on lightdm-gab-gradient and Nord theme.
 
 You can find the original project here: [lightdm-gab-gradient](https://github.com/GabrielTenma/lightdm-gab-gradient)  
-Nord project: [Nord](https://github.com/arcticicestudio/nord)
+Nord theme: [Nord](https://github.com/arcticicestudio/nord)
 ***
 ## Installation guide:
 

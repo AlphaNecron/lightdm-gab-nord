@@ -1,6 +1,8 @@
 ## lightdm-gab-nord
 A theme based on lightdm-gab-gradient and Nord theme.
 
+> This repository is currently orphaned, you can checkout my new theme here: [`lightdm-evo`](https://github.com/AlphaNecron/lightdm-evo)
+
 You can find the original project here: [lightdm-gab-gradient](https://github.com/GabrielTenma/lightdm-gab-gradient)  
 Nord theme: [Nord](https://github.com/arcticicestudio/nord)
 ***
